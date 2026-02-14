@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://collection.cloudinary.com/ddqqbsyaa/9722fef8c9420d27ee921219caf08676", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/ddqqbsyaa/video/upload/v1771077722/Somaya_Darwesh_-_Tal3en_El_Sa7el_Official_Lyric_Video_%D8%B3%D9%85%D9%8A%D9%87_%D8%AF%D8%B1%D9%88%D9%8A%D8%B4_-_%D8%B7%D8%A7%D9%84%D8%B9%D9%8A%D9%86_%D8%A7%D9%84%D8%B3%D8%A7%D8%AD%D9%84_shmhie.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
